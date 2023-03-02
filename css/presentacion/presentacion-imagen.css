@@ -1,0 +1,16 @@
+
+.presentacion__imagen{
+    display: flex;
+   /* display: inline;*/
+    margin: 0 auto;
+   background-repeat: no-repeat;
+   background-position: right;
+   background-size: cover;
+   border-radius: 100%;
+   height: 368px;
+   width: 368px;
+}
+.presentacion__imagen--forma{
+    background-image: url(../../imagen/imagen-mia.jpeg);
+    
+}

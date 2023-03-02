@@ -1,0 +1,25 @@
+.principal{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 4rem;
+    padding-right: 1rem;
+    background: #f5f5f5;
+    align-items: center;
+
+}
+.principal__sobre{
+    justify-content: space-around;
+    display: flex;
+    text-align: center;
+    padding-right: 1rem;
+}
+.principal__listado{
+    list-style: none;
+
+}
+.principal__listado--etiqueta{
+    color: #464646;
+    margin-right: 1rem;
+
+    text-decoration: none;
+}

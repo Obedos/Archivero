@@ -1,0 +1,10 @@
+.skills__lista{
+    padding: 4rem;
+    text-decoration: none;
+    list-style: none;
+    background: #ffffff;
+    flex-direction: row;
+    display: flex;
+    align-items: flex-start;
+    
+}

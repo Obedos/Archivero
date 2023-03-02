@@ -1,0 +1,13 @@
+.presentacion__redes{
+    list-style: none;
+  
+    display: flex;
+    flex-direction: row;
+    font-size: 19px;
+    width: 720px;
+    
+}
+.presentacion__redes--listado{
+    padding-right: 1rem;
+    text-decoration: none;
+}

@@ -1,0 +1,8 @@
+.presentacion__pagina{
+
+    width: 720px;
+    font-size: 52px;
+    padding-bottom: 1rem;
+    font-family: "raleway";
+    justify-content: space-evenly;
+}
